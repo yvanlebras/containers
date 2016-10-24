@@ -114,7 +114,7 @@ general BioContainers workflow:
 
 The next sections explain in details the presented workflow: 
  
- * (i) How to request a workflow
+ * (i) How to request a container
  * (ii) Use a BioContainer
  * (iii) Developing containers 
  
